@@ -1,0 +1,24 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.error-message {
+    color: rgb(27, 27, 27);
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.error-code {
+    color: #ff4d4d;
+    font-size: 72px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.error-description {
+    color: rgb(27, 27, 27);
+    font-size: 18px;
+}

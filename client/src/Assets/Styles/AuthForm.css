@@ -1,0 +1,24 @@
+.form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #bfbfbf;
+    background: #d6d6d6;
+}
+
+.form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #3f3f3f;
+    font-weight: bold;
+}
+
+.error__schema {
+    color: #ff1212;
+    margin-bottom: 10px;
+    margin-top: -10px;
+    font-size: 12px;
+}
